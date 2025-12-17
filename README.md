@@ -1,8 +1,8 @@
 # Predicting Wine Quality with Classical ML and Deep Learning  
 **Team Members:**  
-- Member 1 (Roll / ID)  
-- Member 2 (Roll / ID)  
-- Member 3 (Roll / ID)
+- Abuzar Shafaat (510694)  
+- Mohamed Imaan Khan (532863)  
+
 
 ---
 
